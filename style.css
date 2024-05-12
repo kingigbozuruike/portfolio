@@ -347,3 +347,23 @@ article .icon {
 
 
 /* PROJECT SECTION */
+
+#projects {
+    position: relative;
+}
+
+.color_container {
+    border-color: rgb(163, 163, 163);
+    background: rgb(250, 250, 250);
+}
+
+.project-img {
+    border-radius: 2rem;
+    width: 90%;
+    height: 90%;
+}
+
+.project_btn {
+    color: black;
+    border-color: rgb(163, 163, 163);
+}
