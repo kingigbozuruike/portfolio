@@ -275,6 +275,7 @@ section {
     display: flex;
 }
 
+
 .about-pic {
     border-radius: 2rem;
 }
@@ -366,6 +367,14 @@ article .icon {
 .project_btn {
     color: black;
     border-color: rgb(163, 163, 163);
+}
+
+.project_title {
+    margin-top: 2rem;
+}
+
+.project_desc {
+    margin-bottom: 1rem;
 }
 
 /* CONTACT */
